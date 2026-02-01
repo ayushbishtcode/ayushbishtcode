@@ -23,7 +23,10 @@
      🖋 FANCY FONTS  |  🎭 JUST IMAGES  |  ✨ MINIMALISTIC
      Header via capsule-render — full width, venom shape
      ═══════════════════════════════════════════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=venom&height=200&section=header&text=Ayush+Bisht&fontSize=48&fontColor=#ffffff&textBg=true&animation=fadeIn&fontAlignY=45&desc=Full+Stack+Developer+%7C+ayushbisht.dev&descSize=17&descAlignY=72&descColor=#00e5ff&color=0:040810,35:0a1628,65:0d1b2a,100:040810" width="100%" alt="Header" />
+     
+<img src="https://capsule-render.vercel.app/api?type=venom&height=150&section=header&text=Ayush+Bisht&fontSize=25&fontColor=ffffff&animation=twinkling&fontAlignY=50&desc=Full%20Stack%20Developer%20%E2%80%A2%20ayushbishtcode&descSize=10&descAlignY=70&descColor=22d3ee&color=0:020617,15:1e3a8a,30:2563eb,45:38bdf8,60:7c3aed,75:ec4899,90:f59e0b,100:fff7ed" width="100%" />
+
+
 
 <!-- ═══════════════════════════════════════════════════════════
      💫 DYNAMIC REALTIME — visitor counter (top-right)
@@ -37,7 +40,7 @@
      ═══════════════════════════════════════════════════════════ -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=00e5ff&width=580&lines=Full-stack+developer+based+in+India;Building+scalable+apps+for+businesses+%26+MSMEs;React+%7C+Next.js+%7C+Node.js+%7C+TypeScript;Turning+ideas+into+real+products+%F0%9F%9A%80" alt="Typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=2663eb&width=580&lines=Hey+there+%F0%9F%91%8B+welcome+to+my+GitHub;I%E2%80%99m+a+full-stack+developer+based+in+India;I+love+turning+ideas+into+real+working+products;I+build+apps+that+solve+real+business+problems;From+clean+UIs+to+scalable+backend+systems;Focused+on+performance%2C+clarity+and+usability;This+GitHub+is+where+I+learn%2C+experiment+and+ship;Always+exploring+modern+web+technologies;If+you%E2%80%99re+building+something+meaningful%2C+welcome+%F0%9F%9A%80" alt="Typing" />
 
 
 </div>
@@ -71,7 +74,7 @@
 <a href="https://twitter.com/ayushbisht07"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0d1b2a" alt="Twitter" /></a>
 <a href="https://www.linkedin.com/in/aayushbisht/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1b2a" alt="LinkedIn" /></a>
 <a href="https://github.com/ayushbishtcode"><img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1b2a" alt="GitHub" /></a>
-<a href="https://ayushbisht.dev"><img src="https://img.shields.io/badge/Portfolio-00e5ff?style=for-the-badge&logo=About.me&logoColor=0d1b2a&labelColor=0d1b2a" alt="Portfolio" /></a>
+<a href="https://ayushbisht.tech"><img src="https://img.shields.io/badge/Portfolio-00e5ff?style=for-the-badge&logo=About.me&logoColor=0d1b2a&labelColor=0d1b2a" alt="Portfolio" /></a>
 
 </div>
 
@@ -181,16 +184,24 @@
 
 </div>
 
----
 
 <!-- ═══════════════════════════════════════════════════════════
      🖋 FANCY FONTS  |  🎭 JUST IMAGES  |  ✨ MINIMALISTIC
      Footer via capsule-render — shark shape, full width
      ═══════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=shark&height=100&section=footer&text=Thanks+for+visiting&fontSize=18&fontColor=#00e5ff&color=0:0d1b2a,50:040810,100:040810&triangleColor=040810" width="100%" alt="Footer" />
 
----
+<br><br>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1200&color=ff7101&center=true&vCenter=true&width=620&lines=.%2Fbuild;.%2Fdeploy;.%2Fscale;thank+you+for+visiting;exit+0;" />
+</p>
+
+<br><br>
+
+
+
+
 
 <!-- ═══════════════════════════════════════════════════════════
      🤖 GITHUB ACTIONS — Snake workflow setup
